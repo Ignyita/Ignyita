@@ -7,8 +7,8 @@ Information Science Student
 I am currently studying Information Science at NMAMIT, Nitte.
 
 * 🌍  I'm based in Mangalore
-* 🧠  I'm learning Web development
-* 🤝  I'm open to collaborating on open source projects and Learning opportunities
+* 🧠  I'm learning Machine Learning
+* 🤝  I'm open to collaborating on open-source projects and Learning opportunities
 
 ### Skills
 
